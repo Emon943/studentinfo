@@ -1,0 +1,13 @@
+
+#form {
+	width:50%;
+	height:auto;
+	text-align:left;
+	padding:30px;
+}
+.left {
+	float:right;
+}
+.address_field {
+	vertical-align:top;
+}
